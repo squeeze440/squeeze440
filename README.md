@@ -90,14 +90,3 @@ Published GitHub Security Advisories credited to me (no CVE assigned yet — adv
   <a href="mailto:Moonlight75530@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=squeeze440&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
-  <img src="https://github-readme-stats.vercel.app/api?username=squeeze440&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" alt="squeeze440's GitHub stats">
-</picture>
-
-</div>
-
