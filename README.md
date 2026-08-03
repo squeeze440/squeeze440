@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=640&height=50&lines=Dostxodjayev+Abdullox;Offensive+Security+Researcher;Pentesting+%7C+Red+Teaming+%7C+Vulnerability+Research">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=640&height=50&lines=Dostxodjayev+Abdullox;Offensive+Security+Researcher;Pentesting+%7C+Red+Teaming+%7C+Vulnerability+Research" alt="Dostxodjayev Abdullox — Offensive Security Researcher">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&height=50&lines=Dostxodjayev+Abdullox;Offensive+Security+Researcher;Pentesting+%7C+Red+Teaming+%7C+Vulnerability+Research">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=950&height=50&lines=Dostxodjayev+Abdullox;Offensive+Security+Researcher;Pentesting+%7C+Red+Teaming+%7C+Vulnerability+Research" alt="Dostxodjayev Abdullox — Offensive Security Researcher">
 </picture>
 
 </div>
@@ -80,6 +80,20 @@ Published GitHub Security Advisories credited to me (no CVE assigned yet — adv
 | [GHSA-3gx3-r874-5pp4](https://github.com/philips/supernote-obsidian-plugin/security/advisories/GHSA-3gx3-r874-5pp4) | Supernote Obsidian Plugin | Path Traversal (CWE-22) | `5.6 Medium` |
 | [GHSA-4qh7-66xv-h329](https://github.com/aidenlx/zotlit/security/advisories/GHSA-4qh7-66xv-h329) | ZotLit | Arbitrary File Disclosure (CWE-73) | `5.5 Medium` |
 | [GHSA-5j8x-q7q6-58j5](https://github.com/clay-good/OpenLore/security/advisories/GHSA-5j8x-q7q6-58j5) | OpenLore | Path Traversal (CWE-22) | `4.7 Medium` |
+
+<br>
+
+## Achievements
+
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019c9012-3a0a-71db-bfb0-28f678f8771e"><img src="https://img.shields.io/badge/HTB%20Level-60-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Level 60"></a>
+  <a href="https://profile.hackthebox.com/profile/019c9012-3a0a-71db-bfb0-28f678f8771e"><img src="https://img.shields.io/badge/HTB%20Rank-Professional-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Rank Professional"></a>
+  <a href="https://profile.hackthebox.com/profile/019c9012-3a0a-71db-bfb0-28f678f8771e"><img src="https://img.shields.io/badge/Streak-14%20weeks-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="14 Week Streak"></a>
+</p>
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019c9012-3a0a-71db-bfb0-28f678f8771e"><img src="https://img.shields.io/badge/Pro%20Lab-Puppet-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pro Lab: Puppet"></a>
+  <a href="https://profile.hackthebox.com/profile/019c9012-3a0a-71db-bfb0-28f678f8771e"><img src="https://img.shields.io/badge/Pro%20Lab-Mythical-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pro Lab: Mythical"></a>
+</p>
 
 <br>
 
