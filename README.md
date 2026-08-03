@@ -13,8 +13,6 @@
 
 Offensive security researcher focused on **web application security**, **vulnerability research**, and **coordinated disclosure**. I audit open-source projects for exploitable bugs — from source down to a working proof-of-concept — and report through responsible disclosure channels.
 
-Currently spending most of my time auditing **MCP servers and AI-agent tooling** for the class of bugs unique to that surface: untrusted synced/config content silently reaching a dangerous sink, missing auth on tool handlers, and safety controls that don't cover every code path.
-
 <br>
 
 ## Focus
