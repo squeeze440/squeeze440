@@ -1,10 +1,9 @@
 <div align="center">
 
-# Dostxodjayev Abdullox
-
-### Offensive Security Researcher
-
-*Pentesting&nbsp;·&nbsp;Red Teaming&nbsp;·&nbsp;Vulnerability Research*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=640&height=50&lines=Dostxodjayev+Abdullox;Offensive+Security+Researcher;Pentesting+%7C+Red+Teaming+%7C+Vulnerability+Research">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=640&height=50&lines=Dostxodjayev+Abdullox;Offensive+Security+Researcher;Pentesting+%7C+Red+Teaming+%7C+Vulnerability+Research" alt="Dostxodjayev Abdullox — Offensive Security Researcher">
+</picture>
 
 </div>
 
@@ -88,5 +87,6 @@ Published GitHub Security Advisories credited to me (no CVE assigned yet — adv
 
 <p align="center">
   <a href="mailto:Moonlight75530@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://profile.hackthebox.com/profile/019c9012-3a0a-71db-bfb0-28f678f8771e"><img src="https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Profile"></a>
 </p>
 
