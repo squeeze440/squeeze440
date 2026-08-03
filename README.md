@@ -51,6 +51,23 @@ Currently spending most of my time auditing **MCP servers and AI-agent tooling**
 
 <br>
 
+## Certifications
+
+<p align="center">
+  <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/HTB-Certified-Junior-Cybersecurity-Associate.pdf"><img src="https://img.shields.io/badge/HTB-Certified%20Junior%20Cybersecurity%20Associate-000000?style=for-the-badge&logoColor=white" alt="HTB Certified Junior Cybersecurity Associate"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/CWL-Certified-Red-Team-Analyst-CRTA.pdf"><img src="https://img.shields.io/badge/CWL-Certified%20Red%20Team%20Analyst%20(CRTA)-000000?style=for-the-badge&logoColor=white" alt="CyberWarfare Labs Certified Red Team Analyst"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/CWL-Certified-Web-Red-Team-Analyst-WEB-RTA.pdf"><img src="https://img.shields.io/badge/CWL-Certified%20Web%20Red%20Team%20Analyst%20(WEB--RTA)-000000?style=for-the-badge&logoColor=white" alt="CyberWarfare Labs Certified Web Red Team Analyst"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/CWL-Certified-AD-Red-Team-Specialist-AD-RTS.pdf"><img src="https://img.shields.io/badge/CWL-Certified%20AD%20Red%20Team%20Specialist%20(AD--RTS)-000000?style=for-the-badge&logoColor=white" alt="CyberWarfare Labs Certified AD Red Team Specialist"></a>
+</p>
+
+<br>
+
 <div align="center">
 
 <picture>
