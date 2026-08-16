@@ -68,16 +68,16 @@ Offensive security researcher focused on **web application security**, **vulnera
 
 ## Security Advisories
 
-Published GitHub Security Advisories credited to me (no CVE assigned yet — advisories are published by maintainers; CVE requests are pending GitHub's review).
+Published GitHub Security Advisories credited to me. Two have assigned CVE IDs so far; the rest are published and pending CVE request/review.
 
-| Advisory | Product | Class | Severity |
-|---|---|---|:--:|
-| [GHSA-r3mw-2wmq-j6jg](https://github.com/wolfsoftwaresystemsltd/WolfStack/security/advisories/GHSA-r3mw-2wmq-j6jg) | WolfStack | Hardcoded Secret → Unauthenticated RCE (CWE-798) | `9.8 Critical` |
-| [GHSA-q94x-p9rc-q89f](https://github.com/sgasser/pasteguard/security/advisories/GHSA-q94x-p9rc-q89f) | PasteGuard | Missing CORS/CSRF → API Key Exposure (CWE-352) | `7.6 High` |
-| [GHSA-v6wr-4x55-7qp5](https://github.com/emlog/emlog/security/advisories/GHSA-v6wr-4x55-7qp5) | emlog | CSRF → SQL Execution → Account Takeover (CWE-352) | `6.8 Medium` |
-| [GHSA-3gx3-r874-5pp4](https://github.com/philips/supernote-obsidian-plugin/security/advisories/GHSA-3gx3-r874-5pp4) | Supernote Obsidian Plugin | Path Traversal (CWE-22) | `5.6 Medium` |
-| [GHSA-4qh7-66xv-h329](https://github.com/aidenlx/zotlit/security/advisories/GHSA-4qh7-66xv-h329) | ZotLit | Arbitrary File Disclosure (CWE-73) | `5.5 Medium` |
-| [GHSA-5j8x-q7q6-58j5](https://github.com/clay-good/OpenLore/security/advisories/GHSA-5j8x-q7q6-58j5) | OpenLore | Path Traversal (CWE-22) | `4.7 Medium` |
+| Advisory | Product | Class | Severity | CVE / PoC |
+|---|---|---|:--:|:--:|
+| [GHSA-r3mw-2wmq-j6jg](https://github.com/wolfsoftwaresystemsltd/WolfStack/security/advisories/GHSA-r3mw-2wmq-j6jg) | WolfStack | Hardcoded Secret → Unauthenticated RCE (CWE-798) | `9.8 Critical` | [CVE-2026-73519](https://www.cve.org/CVERecord?id=CVE-2026-73519) · [PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC) |
+| [GHSA-q94x-p9rc-q89f](https://github.com/sgasser/pasteguard/security/advisories/GHSA-q94x-p9rc-q89f) | PasteGuard | Missing CORS/CSRF → API Key Exposure (CWE-352) | `7.6 High` | — |
+| [GHSA-v6wr-4x55-7qp5](https://github.com/emlog/emlog/security/advisories/GHSA-v6wr-4x55-7qp5) | emlog | CSRF → SQL Execution → Account Takeover (CWE-352) | `6.8 Medium` | [CVE-2026-73847](https://www.cve.org/CVERecord?id=CVE-2026-73847) · [PoC](https://github.com/squeeze440/CVE-2026-73847-emlog-PoC) |
+| [GHSA-3gx3-r874-5pp4](https://github.com/philips/supernote-obsidian-plugin/security/advisories/GHSA-3gx3-r874-5pp4) | Supernote Obsidian Plugin | Path Traversal (CWE-22) | `5.6 Medium` | — |
+| [GHSA-4qh7-66xv-h329](https://github.com/aidenlx/zotlit/security/advisories/GHSA-4qh7-66xv-h329) | ZotLit | Arbitrary File Disclosure (CWE-73) | `5.5 Medium` | — |
+| [GHSA-5j8x-q7q6-58j5](https://github.com/clay-good/OpenLore/security/advisories/GHSA-5j8x-q7q6-58j5) | OpenLore | Path Traversal (CWE-22) | `4.7 Medium` | — |
 
 <br>
 
