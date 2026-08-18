@@ -55,6 +55,9 @@ Offensive security researcher focused on **web application security**, **vulnera
   <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/HTB-Certified-Junior-Cybersecurity-Associate.pdf"><img src="https://img.shields.io/badge/HTB-Certified%20Junior%20Cybersecurity%20Associate-000000?style=for-the-badge&logoColor=white" alt="HTB Certified Junior Cybersecurity Associate"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/HTB-Certified-Penetration-Testing-Specialist-CPTS.pdf"><img src="https://img.shields.io/badge/HTB-Certified%20Penetration%20Testing%20Specialist%20(CPTS)-000000?style=for-the-badge&logoColor=white" alt="HTB Certified Penetration Testing Specialist"></a>
+</p>
+<p align="center">
   <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/CWL-Certified-Red-Team-Analyst-CRTA.pdf"><img src="https://img.shields.io/badge/CWL-Certified%20Red%20Team%20Analyst%20(CRTA)-000000?style=for-the-badge&logoColor=white" alt="CyberWarfare Labs Certified Red Team Analyst"></a>
 </p>
 <p align="center">
