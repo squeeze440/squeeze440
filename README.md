@@ -7,6 +7,8 @@
 
 </div>
 
+<p align="center">💼 Available for freelance work — <a href="https://www.upwork.com/freelancers/~0119251317e88eef25?companyReference=2105059697125082613&mp_source=share">hire me on Upwork</a></p>
+
 <br>
 
 ## About
@@ -112,4 +114,5 @@ Further findings across MCP servers, editor plugins, self-hosted applications, a
 <p align="center">
   <a href="mailto:Moonlight75530@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://profile.hackthebox.com/profile/019c9012-3a0a-71db-bfb0-28f678f8771e"><img src="https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Profile"></a>
+  <a href="https://www.upwork.com/freelancers/~0119251317e88eef25?companyReference=2105059697125082613&mp_source=share"><img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile"></a>
 </p>
