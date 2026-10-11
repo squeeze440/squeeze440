@@ -68,6 +68,12 @@ Offensive security researcher focused on **web application security**, **vulnera
 <p align="center">
   <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/CWL-Certified-AD-Red-Team-Specialist-AD-RTS.pdf"><img src="https://img.shields.io/badge/CWL-Certified%20AD%20Red%20Team%20Specialist%20(AD--RTS)-000000?style=for-the-badge&logoColor=white" alt="CyberWarfare Labs Certified AD Red Team Specialist"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/HTB-Mini-Pro-Labs-Mythical.jpg"><img src="https://img.shields.io/badge/HTB-Mini%20Pro%20Lab%3A%20Mythical-000000?style=for-the-badge&logoColor=white" alt="HTB Mini Pro Lab: Mythical"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/squeeze440/squeeze440/blob/main/certs/HTB-Mini-Pro-Labs-Puppet.jpg"><img src="https://img.shields.io/badge/HTB-Mini%20Pro%20Lab%3A%20Puppet-000000?style=for-the-badge&logoColor=white" alt="HTB Mini Pro Lab: Puppet"></a>
+</p>
 
 <br>
 
