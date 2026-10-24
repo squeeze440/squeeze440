@@ -98,7 +98,7 @@ Offensive security researcher focused on **web application security**, **vulnera
 | [GHSA-g9vc-5j77-f2cm](https://github.com/siemens/linux-entra-sso/security/advisories/GHSA-g9vc-5j77-f2cm) | linux-entra-sso | Origin validation error → Entra ID PRT SSO cookie exfiltration (CWE-346) | `5.3 Medium` | **CVE-2026-87005** · [PoC](https://github.com/squeeze440/linux-entra-sso-PoC) |
 | [GHSA-5j8x-q7q6-58j5](https://github.com/clay-good/OpenLore/security/advisories/GHSA-5j8x-q7q6-58j5) | OpenLore | Path traversal via unsanitized LLM-derived `domain` field (CWE-22) | `4.7 Medium` | **CVE-2026-87001** · [PoC](https://github.com/squeeze440/openlore-PoC) |
 
-<sub>CVE IDs shown in bold were assigned on 2026-09-09 and are propagating to cve.org / NVD.</sub>
+<sub>CVE IDs shown in bold were assigned by GitHub (CNA) on 2026-09-09; publication of the CVE records to cve.org / NVD is pending.</sub>
 
 <br>
 
@@ -110,6 +110,7 @@ Coordinated disclosures accepted and published upstream; CVE requested and pendi
 |---|---|---|:--:|
 | [GHSA-wgvw-28pq-jc36](https://github.com/caura-ai/caura/security/advisories/GHSA-wgvw-28pq-jc36) | Caura MemClaw | Missing authentication — unauthenticated cross-tenant memory read/write (CWE-306) | `9.1` |
 | [GHSA-9w34-3f56-vwmh](https://github.com/Softeria/ms-365-mcp-server/security/advisories/GHSA-9w34-3f56-vwmh) | ms-365-mcp-server | Untrusted search path → code execution via project-local `.env` (CWE-427) | `7.8` |
+| [GHSA-xrx3-j98v-67x9](https://github.com/TabularisDB/tabularis/security/advisories/GHSA-xrx3-j98v-67x9) | Tabularis | SQL injection in SQLite driver → MCP read-only mode bypass via `describe_table` (CWE-89) | `7.8` |
 
 Further findings across MCP servers, editor plugins, self-hosted applications, and browser extensions are in coordinated disclosure via VulnCheck.
 
