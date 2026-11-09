@@ -79,15 +79,16 @@ Offensive security researcher focused on **web application security**, **vulnera
 
 ## CVEs
 
-14 assigned CVE IDs from coordinated disclosure of original findings in open-source software.
+15 assigned CVE IDs from coordinated disclosure of original findings in open-source software.
 
 | Advisory | Product | Class | Severity | CVE / PoC |
 |---|---|---|:--:|:--:|
 | [GHSA-r3mw-2wmq-j6jg](https://github.com/wolfsoftwaresystemsltd/WolfStack/security/advisories/GHSA-r3mw-2wmq-j6jg) | WolfStack | Hardcoded secret → unauthenticated RCE (CWE-798) | `9.8 Critical` | [CVE-2026-73519](https://www.cve.org/CVERecord?id=CVE-2026-73519) · [PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC) |
 | [GHSA-crjc-6vc7-xrfh](https://github.com/Quenary/tugtainer/security/advisories/GHSA-crjc-6vc7-xrfh) | Tugtainer | OIDC `id_token` accepted without signature / audience / expiry check (CWE-347) | `8.1 High` | [CVE-2026-87004](https://www.cve.org/CVERecord?id=CVE-2026-87004) · [PoC](https://github.com/squeeze440/tugtainer-PoC) |
+| [GHSA-xrx3-j98v-67x9](https://github.com/TabularisDB/tabularis/security/advisories/GHSA-xrx3-j98v-67x9) | Tabularis | SQL injection in SQLite driver → MCP read-only mode bypass via `describe_table` (CWE-89) | `7.8 High` | [CVE-2026-118378](https://www.cve.org/CVERecord?id=CVE-2026-118378) · [PoC](https://github.com/squeeze440/CVE-2026-118378-tabularis-PoC) |
 | [GHSA-q94x-p9rc-q89f](https://github.com/sgasser/pasteguard/security/advisories/GHSA-q94x-p9rc-q89f) | PasteGuard | Cross-origin proxy requests reuse configured provider API keys (CWE-352) | `7.6 High` | **CVE-2026-86998** · [PoC](https://github.com/squeeze440/pasteguard-PoC) |
 | [GHSA-5jp3-339h-vxqw](https://github.com/us/crw/security/advisories/GHSA-5jp3-339h-vxqw) | crw | SSRF — JS-rendering tiers bypass the URL safety filter (CWE-918) | `7.5 High` | **CVE-2026-87007** · [PoC](https://github.com/squeeze440/crw-PoC) |
-| [GHSA-85gg-2gfq-q95m](https://github.com/vitali87/code-graph-rag/security/advisories/GHSA-85gg-2gfq-q95m) | code-graph-rag | Symlink following → arbitrary file read/write outside project root (CWE-59) | `7.1 High` | **CVE-2026-87008** · [PoC](https://github.com/squeeze440/code-graph-rag-PoC) |
+| [GHSA-85gg-2gfq-q95m](https://github.com/vitali87/code-graph-rag/security/advisories/GHSA-85gg-2gfq-q95m) | code-graph-rag | Symlink following → arbitrary file read/write outside project root (CWE-59) | `7.1 High` | [CVE-2026-87008](https://www.cve.org/CVERecord?id=CVE-2026-87008) · [PoC](https://github.com/squeeze440/code-graph-rag-PoC) |
 | [GHSA-q8cw-3m8c-5pf2](https://github.com/chrisgurney/obsidian-note-toolbar/security/advisories/GHSA-q8cw-3m8c-5pf2) | Note Toolbar | Frontmatter-driven arbitrary JavaScript execution (CWE-94) | `7.0 High` | **CVE-2026-87002** · [PoC](https://github.com/squeeze440/obsidian-note-toolbar-PoC) |
 | [GHSA-v6wr-4x55-7qp5](https://github.com/emlog/emlog/security/advisories/GHSA-v6wr-4x55-7qp5) | emlog | CSRF → SQL execution → account takeover (CWE-352) | `6.8 Medium` | [CVE-2026-73847](https://www.cve.org/CVERecord?id=CVE-2026-73847) · [PoC](https://github.com/squeeze440/CVE-2026-73847-emlog-PoC) |
 | [GHSA-6qrc-597p-mrp9](https://github.com/mattrobinsonsre/terrapod/security/advisories/GHSA-6qrc-597p-mrp9) | Terrapod | Missing authorization on the platform-wide GPG trust-anchor store (CWE-862) | `6.5 Medium` | **CVE-2026-87006** · [PoC](https://github.com/squeeze440/terrapod-PoC) |
@@ -110,7 +111,7 @@ Coordinated disclosures accepted and published upstream; CVE requested and pendi
 |---|---|---|:--:|
 | [GHSA-wgvw-28pq-jc36](https://github.com/caura-ai/caura/security/advisories/GHSA-wgvw-28pq-jc36) | Caura MemClaw | Missing authentication — unauthenticated cross-tenant memory read/write (CWE-306) | `9.1` |
 | [GHSA-9w34-3f56-vwmh](https://github.com/Softeria/ms-365-mcp-server/security/advisories/GHSA-9w34-3f56-vwmh) | ms-365-mcp-server | Untrusted search path → code execution via project-local `.env` (CWE-427) | `7.8` |
-| [GHSA-xrx3-j98v-67x9](https://github.com/TabularisDB/tabularis/security/advisories/GHSA-xrx3-j98v-67x9) | Tabularis | SQL injection in SQLite driver → MCP read-only mode bypass via `describe_table` (CWE-89) | `7.8` |
+| [GHSA-72vq-h2m5-vqw8](https://github.com/db-lyon/ue-mcp/security/advisories/GHSA-72vq-h2m5-vqw8) | ue-mcp | Missing authentication on the Unreal Editor bridge → Python/OS command execution (CWE-306) | `7.8` |
 
 Further findings across MCP servers, editor plugins, self-hosted applications, and browser extensions are in coordinated disclosure via VulnCheck.
 
